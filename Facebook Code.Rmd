@@ -11,13 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 library(tidyverse)
 library(GGally)
+library(glmnet)
 library(car)
-library(ggplot2)
 library(MASS)
 library(mice)
 library(MLmetrics)
 library(caret)
-library(glmnet)
 
 ```
 
