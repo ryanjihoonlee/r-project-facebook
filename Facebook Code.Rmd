@@ -14,9 +14,9 @@ library(GGally)
 library(glmnet)
 library(car)
 library(MASS)
-library(mice)
 library(MLmetrics)
 library(caret)
+library(mice)
 
 ```
 
