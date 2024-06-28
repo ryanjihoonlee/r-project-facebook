@@ -1,10 +1,10 @@
 # The Impact of Facebook Post Features on Consumer Engagement
 
 ## Overview
-This project conducts a predictive analysis of user interactions with Facebook posts using a dataset from a cosmetics brand's page. The goal is to build a model that forecasts the number of people who click anywhere on a post ('Lifetime Post Consumers') by examining eight specific input features related to post content and timing. Linear regression techniques are employed to analyze the posts and identify significant predictors of consumer engagement. The project highlights the importance of understanding which post features most significantly impact engagement, enabling marketers to refine their content strategies. The insights gained can help brands optimize their posting schedules and content types, leading to more effective social media marketing campaigns. Ultimately, the findings empower businesses to make data-driven decisions, enhancing their social media presence and overall marketing efforts.
+This project performs a predictive analysis of user interactions with Facebook posts using a dataset from a cosmetics brand's page. The goal is to build a model that forecasts the number of people who click on a post ('Lifetime Post Consumers') by examining eight specific features related to post content and timing. Linear regression techniques are used to analyze the posts and identify significant predictors of consumer engagement. The project emphasizes the importance of understanding which post features most significantly impact engagement, enabling marketers to refine their content strategies. The insights gained can help brands optimize their posting schedules and content types, leading to more effective social media marketing campaigns. 
 
 ## Objective
-The primary aim is to use linear regression techniques to uncover patterns in user engagement and identify significant variables influencing consumer interaction on Facebook. 
+The primary aim is to use linear regression techniques to uncover patterns in user engagement and identify key variables influencing consumer interaction on Facebook.
 
 ## Tools
 The analysis was conducted using the R programming language, utilizing various statistical and data visualization tools. 
